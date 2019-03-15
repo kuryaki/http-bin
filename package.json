@@ -1,0 +1,14 @@
+{
+  "name": "http-bin",
+  "version": "0.0.1",
+  "description": "http bin to test, document and debug http requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "david@roncancio.me",
+  "license": "ISC",
+  "dependencies": {
+    "http-parser-js": "^0.4.13"
+  }
+}
